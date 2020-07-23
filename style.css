@@ -269,7 +269,12 @@ footer p:nth-child(1){
 .social-icons{
     display: flex;
 }
+.copy-right p{
+    font-family: myriadpro-light;
+    
+    
 
+}
 
 
 
